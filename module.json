@@ -21,17 +21,17 @@
     "esmodules": [
       "helloworld.js"
     ],
-    "url": "https://github.com/ironmonk88/always-hp",
+    "url": "https://github.com/Barrow/sandbox-barrow",
     "download": "https://github.com/ironmonk88/always-hp/archive/12.01.zip",
-    "manifest": "https://github.com/ironmonk88/always-hp/releases/latest/download/module.json",
-    "bugs": "https://github.com/ironmonk88/always-hp/issues",
+    "manifest": "https://github.com/Barrow/sandbox-barrow/releases/latest/download/module.json",
+    "bugs": "https://github.com/Barrow/sandbox-barrow/issues",
     "allowBugReporter": true,
     "id": "always-hp",
     "compatibility": {
       "minimum": "12",
       "verified": "12"
     },
-    "name": "always-hp",
+    "name": "sandbox-barrow",
     "minimumCoreVersion": "12",
     "compatibleCoreVersion": "12"
   }
