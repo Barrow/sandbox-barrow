@@ -1,3 +1,5 @@
 {
-    "SANDBOX.helloworld": "Hello world!"
+    "SANDBOX.everyone": "Everyone",
+    "SANDBOX.gmsonly": "GMs Only",
+    "SANDBOX.players": "Players"
 }
