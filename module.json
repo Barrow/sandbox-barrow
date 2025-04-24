@@ -1,0 +1,37 @@
+{
+    "title": "Barrow's Sandbox",
+    "description": "This is just for testing/learning purposes",
+    "version": "1.00",
+    "authors": [
+      {
+        "name": "Barrow",
+        "discord": "barrow",
+        "flags": {
+            "github": "Barrow"
+        }
+      }
+    ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "esmodules": [
+      "helloworld.js"
+    ],
+    "url": "https://github.com/ironmonk88/always-hp",
+    "download": "https://github.com/ironmonk88/always-hp/archive/12.01.zip",
+    "manifest": "https://github.com/ironmonk88/always-hp/releases/latest/download/module.json",
+    "bugs": "https://github.com/ironmonk88/always-hp/issues",
+    "allowBugReporter": true,
+    "id": "always-hp",
+    "compatibility": {
+      "minimum": "12",
+      "verified": "12"
+    },
+    "name": "always-hp",
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12"
+  }
