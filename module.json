@@ -1,36 +1,34 @@
 {
-    "title": "Barrow's Sandbox",
-    "description": "This is just for testing/learning purposes",
-    "version": "1.02",
-    "authors": [
-      {
-        "name": "Barrow",
-        "discord": "barrow",
-        "flags": {
-            "github": "Barrow"
-        }
-      }
-    ],
-    "languages": [
-      {
-        "lang": "en",
-        "name": "English",
-        "path": "languages/en.json"
-      }
-    ],
-    "esmodules": [
-      "helloworld.js"
-    ],
-    "url": "https://github.com/Barrow/sandbox-barrow",
-    "download": "https://github.com/Barrow/sandbox-barrow/archive/refs/tags/1.02.zip",
-    "manifest": "https://github.com/Barrow/sandbox-barrow/releases/latest/download/module.json",
-    "bugs": "https://github.com/Barrow/sandbox-barrow/issues",
-    "id": "sandbox-barrow",
-    "compatibility": {
-      "minimum": "12",
-      "verified": "12"
-    },
-    "name": "sandbox-barrow",
-    "minimumCoreVersion": "12",
-    "compatibleCoreVersion": "12"
-  }
+	"title": "Barrow's Sandbox",
+	"description": "This is just for testing/learning purposes",
+	"version": "1.02",
+	"authors": [
+		{
+			"name": "Barrow",
+			"discord": "barrow",
+			"flags": {
+				"github": "Barrow"
+			}
+		}
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "languages/en.json"
+		}
+	],
+	"esmodules": ["helloworld.js"],
+	"url": "https://github.com/Barrow/sandbox-barrow",
+	"download": "https://github.com/Barrow/sandbox-barrow/archive/refs/tags/1.02.zip",
+	"manifest": "https://github.com/Barrow/sandbox-barrow/releases/latest/download/module.json",
+	"bugs": "https://github.com/Barrow/sandbox-barrow/issues",
+	"id": "sandbox-barrow",
+	"compatibility": {
+		"minimum": "12",
+		"verified": "12"
+	},
+	"name": "sandbox-barrow",
+	"minimumCoreVersion": "12",
+	"compatibleCoreVersion": "12"
+}
