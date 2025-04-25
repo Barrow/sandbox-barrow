@@ -20,7 +20,7 @@
 	],
 	"esmodules": ["helloworld.js"],
 	"url": "https://github.com/Barrow/sandbox-barrow",
-	"download": "https://github.com/Barrow/sandbox-barrow/archive/refs/tags/1.02.zip",
+	"download": "https://github.com/Barrow/sandbox-barrow/archive/refs/tags/1.03.zip",
 	"manifest": "https://github.com/Barrow/sandbox-barrow/releases/latest/download/module.json",
 	"bugs": "https://github.com/Barrow/sandbox-barrow/issues",
 	"id": "sandbox-barrow",
